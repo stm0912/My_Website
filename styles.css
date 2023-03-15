@@ -10,7 +10,7 @@ body {
 h1 {
   margin-top: 50px auto 0 auto;
   font-family: "Sacramento", cursive;
-  font-size: 5.625rem;
+  font-size: 6.625rem;
   font-weight: bold;
   line-height: 2;
 
@@ -21,7 +21,7 @@ h2 {
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   padding-bottom: 10px;
-  font-size: 2.5rem
+  font-size: 3.5rem
 }
 .top-container {
   background-color: #A6B1E1;
@@ -94,7 +94,7 @@ hr {
 }
 
 .topunderheader {
-  font-size: 2rem;
+  font-size: 3rem;
 }
 .skill-row {
   width: 50%;
@@ -107,7 +107,7 @@ hr {
   color: white;
 }
 .footer-link:visited {
-  color: grey;
+  color: black;
 }
 .footer-link:hover {
   color: yellow;
